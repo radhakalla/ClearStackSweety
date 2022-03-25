@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45212" started-at="2022-03-25T16:02:14 IST" finished-at="2022-03-25T16:02:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45212" started-at="2022-03-25T16:02:14 IST" finished-at="2022-03-25T16:02:59 IST">
+      <class name="com.Sweety.com.Sweety.Sweety">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.Sweety.com.Sweety.Sweety@5891e32e]" name="openBrowser" is-config="true" duration-ms="15814" started-at="2022-03-25T16:02:14 IST" finished-at="2022-03-25T16:02:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginToSweety()[pri:0, instance:com.Sweety.com.Sweety.Sweety@5891e32e]" name="loginToSweety" duration-ms="2903" started-at="2022-03-25T16:02:30 IST" finished-at="2022-03-25T16:02:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSweety -->
+        <test-method status="PASS" signature="enterGlucoseLevels()[pri:1, instance:com.Sweety.com.Sweety.Sweety@5891e32e]" name="enterGlucoseLevels" duration-ms="23349" started-at="2022-03-25T16:02:33 IST" finished-at="2022-03-25T16:02:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterGlucoseLevels -->
+        <test-method status="PASS" signature="viewReports()[pri:2, instance:com.Sweety.com.Sweety.Sweety@5891e32e]" name="viewReports" duration-ms="1925" started-at="2022-03-25T16:02:56 IST" finished-at="2022-03-25T16:02:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewReports -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Sweety.com.Sweety.Sweety@5891e32e]" name="tearDown" is-config="true" duration-ms="1062" started-at="2022-03-25T16:02:58 IST" finished-at="2022-03-25T16:02:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Sweety.com.Sweety.Sweety -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
